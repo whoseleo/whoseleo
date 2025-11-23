@@ -14,17 +14,10 @@
 
 ## My tech stack 💻 
 
-**Languages**  
-HTML basics
-
-**Communication**
-Google Workspace, SharePoint, Zimbra, Roundcube
-
-**Design**
-Canva, Figma
-
-**Message Embeds**
-Discohook
+- **Languages:**  HTML basics
+- **Communication:** Google Workspace, SharePoint, Zimbra, Roundcube
+- **Design:** Canva, Figma
+- **Message Embeds:** Discohook
 
 ## What I'm focusing on 🧑‍💻
 - Improving my problem-solving & algorithm skills  
